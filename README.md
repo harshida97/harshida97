@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harshida97
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 I’m a junior MERN stack eveloper in GVR BUSINESS TRANSFORMS.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me through harshidaayapally@gmail.com.
 
 <!---
 harshida97/harshida97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
